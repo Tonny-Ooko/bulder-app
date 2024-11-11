@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web" nameIsGenerated="true">
+    <option name="htmlFilePath" value="$PROJECT_DIR$/my_new_project/web/index.html" />
+    <option name="webdevPort" value="8080" />
+    <method v="2" />
+  </configuration>
+</component>
